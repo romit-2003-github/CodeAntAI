@@ -1,8 +1,15 @@
-# React + Vite
+# React + Vite 
+This is the Front-end implementation of a provided design.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Installation
+1. Clone the repo:
+  - git clone https://github.com/romit-2003-github/CodeAntAi.git
+  - cd CodeAntAI
+2. Install dependencies:
+  - npm install
+3. Start the application:
+  - npm run dev
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Usage
+1. Once the application is open, click on **Sign in using GitHub** to navigate to the repos page.
+2. The data is fetched from the GitHub API and displayed on the screen.
